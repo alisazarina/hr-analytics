@@ -15,7 +15,15 @@
 
 This is an end-to-end HR analytics project — from raw data cleaning in Python to exploratory analysis and interactive dashboard development in Power BI. It provides HR stakeholders with a centralised view of key workforce metrics, enabling data-driven decisions around talent management, hiring efficiency, and employee engagement.
 
-The dataset used is **HRDataset_v14** — an open source HR analytics dataset from Kaggle (`cleaned_hr_data.csv`).
+---
+
+## 📊 Dataset
+
+This project uses the **Human Resources Data Set (HRDataset_v14)** by Dr. Richard A. Huebner & Dr. Carla Patalano, originally designed to support graduate-level HR analytics education.
+
+- **Source:** [Kaggle — Human Resources Data Set](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
+- **Authors:** Dr. Rich Huebner & Dr. Carla Patalano
+- **License:** Open access for educational and portfolio use
 
 ---
 
